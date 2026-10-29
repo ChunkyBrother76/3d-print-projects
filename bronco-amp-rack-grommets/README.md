@@ -21,10 +21,12 @@ Reference: 4 ga size based on the Sky High Car Audio plastic grommet (15.91 mm c
 |---|---|---|
 | v1 | Initial design, 3.5 mm flange lip | Too loose in hole |
 | v2 | Barrel to full drill size, ribs 0.45 mm proud | Good fit |
-| v3 | Flange lip halved to 1.75 mm; 12-up plates per size | Tested, works |
-| v4 | 1.0 mm lip, 1.2 mm flange, hollow 1.2 mm barrel wall (35–60% less plastic) | Awaiting test print |
+| v3 | Flange lip halved to 1.75 mm; 12-up plates per size | Tested, works (superseded) |
+| v4 | 1.0 mm lip, 1.2 mm flange, hollow 1.2 mm barrel wall (35–60% less plastic) | **Tested, perfect fit — current version** |
 
 ## Printing
+
+Use the files in `stl/v4/`: `grommets_v4_test_set.stl` (one of each) or the `_x12_v4` plates for bulk.
 
 - Flange-down on the bed, no supports.
 - PETG or ASA (PLA can soften in a hot cab).
